@@ -1,0 +1,6 @@
+E:\000_COGUT_visual\03_C# Self-Teach\Console002_DiamondWithStars\Console002_DiamondWithStars\bin\Debug\Console002_DiamondWithStars.exe.config
+E:\000_COGUT_visual\03_C# Self-Teach\Console002_DiamondWithStars\Console002_DiamondWithStars\bin\Debug\Console002_DiamondWithStars.exe
+E:\000_COGUT_visual\03_C# Self-Teach\Console002_DiamondWithStars\Console002_DiamondWithStars\bin\Debug\Console002_DiamondWithStars.pdb
+E:\000_COGUT_visual\03_C# Self-Teach\Console002_DiamondWithStars\Console002_DiamondWithStars\obj\Debug\Console002_DiamondWithStars.csprojAssemblyReference.cache
+E:\000_COGUT_visual\03_C# Self-Teach\Console002_DiamondWithStars\Console002_DiamondWithStars\obj\Debug\Console002_DiamondWithStars.exe
+E:\000_COGUT_visual\03_C# Self-Teach\Console002_DiamondWithStars\Console002_DiamondWithStars\obj\Debug\Console002_DiamondWithStars.pdb
